@@ -1,6 +1,6 @@
-# erkanguzelkucuk.github.io
+# eguzelkucuk.github.io
 
-Personal site and blog — <https://erkanguzelkucuk.github.io>
+Personal site and blog — <https://eguzelkucuk.github.io>
 
 Built with [Jekyll](https://jekyllrb.com) and the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 theme, built and deployed by GitHub Actions to GitHub Pages.
